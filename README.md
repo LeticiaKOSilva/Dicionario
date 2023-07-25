@@ -1,7 +1,7 @@
 # Dicionário
 ### -> Criação de uma lista de palavras que representa um dicionário.
 
-- O programa foi feito utilizando a linguagem Java.
+- O programa foi feito utilizando a linguagem Java;
 - Foram criadas 6 classes sendo:
    - Uma classe do tipo Enum, que comporta as funcionalidades que podem ser escolhidas pelo usuário;
    - Uma classe do tipo Interface, que comporta as constantes que serão mensagens que podem ou não ser exibidas para o usuários;
